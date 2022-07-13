@@ -11,7 +11,7 @@ SO THAT I have quick access to their emails and GitHub profiles
 ```
 ## Deployed Link
 ```md
-[![Watch the video](https://drive.google.com/file/d/1-Om3e_-ATXfmfldydBmtPCIypYIiP86W/view?usp=sharing)
+https://drive.google.com/file/d/1-Om3e_-ATXfmfldydBmtPCIypYIiP86W/view?usp=sharing
 ```
 
 ## Images
