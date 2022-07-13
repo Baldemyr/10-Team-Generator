@@ -36,6 +36,6 @@ THEN I exit the application, and the HTML is generated
 
 ## Images
 ![10-pic2s](https://user-images.githubusercontent.com/46965040/178651406-b0fd14e6-4396-4408-b70f-9e59fb1e4dfc.jpg)
-![10-pic1s](https://user-images.githubusercontent.com/46965040/178651409-bd677fb9-f790-4ab5-acfb-514fe9f2b70e.jpg)
+![10-pic1s]https://drive.google.com/file/d/12HYcHwGopiQKSdKv9vLyXK5_l-YWMBw4/view?usp=sharing
 
 Questions or Suggestions? Andrew Cryer : son_of_loki@hotmail.com
