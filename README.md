@@ -31,9 +31,10 @@ THEN I am prompted to enter the intern’s name, ID, email, and school, and I am
 WHEN I decide to finish building my team
 THEN I exit the application, and the HTML is generated
 
-##Deployed Link
+## Deployed Link
 
-##Images
+
+## Images
 ![10-pic1](https://user-images.githubusercontent.com/46965040/178650711-d5abba4d-bd1c-44cc-bb86-3021cffad6af.png)
 ![10-pic2](https://user-images.githubusercontent.com/46965040/178650713-ec2cae97-a87e-445f-ab56-1d81f4069e9f.png)
 
