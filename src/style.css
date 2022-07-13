@@ -1,0 +1,42 @@
+body{
+    background-color: rgb(80, 109, 150);
+}
+.navbar-header {
+    float: left;
+    padding: 15px;
+    text-align: center;
+    width: 100%;
+    }
+.navbar-brand {
+    float:none;
+    font-size: 48px;}
+
+.navbar{
+    background: rgb(20, 22, 63);
+    color: rgb(255, 255, 255);
+}
+
+.card{
+    margin: 20px;
+    padding: 0;
+}
+
+
+
+.card-header{
+    background: rgb(51,153,255)
+}
+
+.card-title {
+    color:white;
+}
+
+.text-muted {
+    color:rgb(255, 255, 255);
+}
+
+.list-group{
+    margin: 10px;
+    border: solid 2px rgba(234, 192, 192, 0.832);
+    
+}
