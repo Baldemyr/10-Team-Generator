@@ -32,10 +32,7 @@ WHEN I decide to finish building my team
 THEN I exit the application, and the HTML is generated
 
 ##Deployed Link
-https://drive.google.com/file/d/1-Om3e_-ATXfmfldydBmtPCIypYIiP86W/view?usp=sharing
 
 ##Images
-[TEXT TO SHOW](actual URL to navigate)https://drive.google.com/file/d/1N8AfBb6fqtJptTvLywFIflkAGQ_i1NIQ/view?usp=sharing
-(https://drive.google.com/file/d/16woyNcU1KTElDMmEvK7KNb9b8rRuldIF/view?usp=sharing)
 
 Questions or suggestions Email Andrew Cryer : son_of_loki@hotmail.com
