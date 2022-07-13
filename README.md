@@ -35,7 +35,7 @@ THEN I exit the application, and the HTML is generated
 
 
 ## Images
-![10-pic1](https://user-images.githubusercontent.com/46965040/178650711-d5abba4d-bd1c-44cc-bb86-3021cffad6af.png)
-![10-pic2](https://user-images.githubusercontent.com/46965040/178650713-ec2cae97-a87e-445f-ab56-1d81f4069e9f.png)
+![10-pic2s](https://user-images.githubusercontent.com/46965040/178651406-b0fd14e6-4396-4408-b70f-9e59fb1e4dfc.jpg)
+![10-pic1s](https://user-images.githubusercontent.com/46965040/178651409-bd677fb9-f790-4ab5-acfb-514fe9f2b70e.jpg)
 
 Questions or Suggestions? Andrew Cryer : son_of_loki@hotmail.com
