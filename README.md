@@ -9,7 +9,13 @@ AS A manager
 I WANT to generate a webpage that displays my team's basic info
 SO THAT I have quick access to their emails and GitHub profiles
 ```
+## Deployed Link
+```md
+
+
 ## Images
+
+```md
 ![10-pic2s](https://user-images.githubusercontent.com/46965040/178651993-9c7f6d33-ec97-4359-9f46-5c62d9a6a93b.jpg)
 ![10-pic1s](https://user-images.githubusercontent.com/46965040/178651994-428709b5-1df6-4efc-87d5-f99345bb5c78.jpg)
 
@@ -33,9 +39,5 @@ WHEN I select the intern option
 THEN I am prompted to enter the intern’s name, ID, email, and school, and I am taken back to the menu
 WHEN I decide to finish building my team
 THEN I exit the application, and the HTML is generated
-
-## Deployed Link
-
-
 
 Questions or Suggestions? Andrew Cryer : son_of_loki@hotmail.com
