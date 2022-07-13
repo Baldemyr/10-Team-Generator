@@ -34,5 +34,7 @@ THEN I exit the application, and the HTML is generated
 ##Deployed Link
 
 ##Images
+![10-pic1](https://user-images.githubusercontent.com/46965040/178650711-d5abba4d-bd1c-44cc-bb86-3021cffad6af.png)
+![10-pic2](https://user-images.githubusercontent.com/46965040/178650713-ec2cae97-a87e-445f-ab56-1d81f4069e9f.png)
 
-Questions or suggestions Email Andrew Cryer : son_of_loki@hotmail.com
+Questions or Suggestions? Andrew Cryer : son_of_loki@hotmail.com
