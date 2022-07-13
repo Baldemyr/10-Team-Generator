@@ -11,14 +11,13 @@ SO THAT I have quick access to their emails and GitHub profiles
 ```
 ## Deployed Link
 ```md
-
+```
 
 ## Images
-
 ```md
 ![10-pic2s](https://user-images.githubusercontent.com/46965040/178651993-9c7f6d33-ec97-4359-9f46-5c62d9a6a93b.jpg)
 ![10-pic1s](https://user-images.githubusercontent.com/46965040/178651994-428709b5-1df6-4efc-87d5-f99345bb5c78.jpg)
-
+```
 ## Acceptance Criteria
 
 ```md
