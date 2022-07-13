@@ -33,7 +33,8 @@ THEN I exit the application, and the HTML is generated
 
 ## Deployed Link
 
-
+![10-pic2s](https://user-images.githubusercontent.com/46965040/178651993-9c7f6d33-ec97-4359-9f46-5c62d9a6a93b.jpg)
+![10-pic1s](https://user-images.githubusercontent.com/46965040/178651994-428709b5-1df6-4efc-87d5-f99345bb5c78.jpg)
 ## Images
 ![10-pic2s](https://user-images.githubusercontent.com/46965040/178651406-b0fd14e6-4396-4408-b70f-9e59fb1e4dfc.jpg)
 ![10-pic1s]https://drive.google.com/file/d/12HYcHwGopiQKSdKv9vLyXK5_l-YWMBw4/view?usp=sharing
